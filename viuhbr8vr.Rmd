@@ -1,0 +1,15 @@
+---
+title: "irghurybv"
+author: "Viktor Damm"
+date: "2024-03-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+datasæt <- read.csv("data1.csv")
+```
+
