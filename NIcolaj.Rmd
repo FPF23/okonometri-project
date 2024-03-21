@@ -14,7 +14,6 @@ hejehejehehj
 ```
 
 ```{r}
-datasæt1 <- read.csv("data1.csv")
-datasæt1
+datasæt2 <- read.csv("data1.csv")
+datasæt2
 ```
-
